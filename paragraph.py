@@ -23,7 +23,3 @@ def for_lowercase():
     else:
         u=a.lower()
         print("change in lower case:-",u)
-
-
-
-def for_
