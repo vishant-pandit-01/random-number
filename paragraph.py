@@ -23,3 +23,15 @@ def for_lowercase():
     else:
         u=a.lower()
         print("change in lower case:-",u)
+
+
+
+def for_lowercase():
+    print("enter your string:-")
+    a=input()
+    
+    if a.islower():
+        print("already in lowercase")
+    else:
+        u=a.lower()
+        print("change in lower case:-",u)
