@@ -26,22 +26,4 @@ print(random.choice(['red','green','yellow']))
 
 # ----- for multiple samples -----
 print(random.sample(['1','2','3','4','5','6'],3))
-```
-
-## ⚙️ Functions Used
-
-### 1. `random.randrange(start, stop)`
-
-Generates a random number within the given range.
-
-Example:
-
-```
-random.randrange(1,1000)
-```
-
-### 2. `random.choice(sequence)`
-
-Returns a random element from a list or sequence.
-
-Examp
+`
