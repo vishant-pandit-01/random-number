@@ -12,6 +12,3 @@ print(random.choice(['red','green','yellow']))
 
 # -----for multiple sample----
 print(random.sample(['1','2','3','4','5','6'],3))
-
-
-
