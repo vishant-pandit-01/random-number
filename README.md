@@ -13,7 +13,3 @@ This repository contains simple examples of using Python's **random module** to 
 
 ```python
 import random
-
-# ----- for random digit -----
-x = random.randrange(1,1000)
-print(x)
