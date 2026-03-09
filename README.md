@@ -61,11 +61,3 @@ random.sample(['1','2','3','4','5','6'],3)
 ```
 
 ## ▶️ How to Run
-
-1. Install Python (if not installed).
-2. Save the file as `random_example.py`
-3. Run the program:
-
-```
-python random_example.py
-``
