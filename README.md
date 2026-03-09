@@ -1,3 +1,2 @@
 ## new repository as a sample of my paragraph
-# at a same time paragraph change in current world time 
-the ptoject of random numbers
+# at a same time paragraph
