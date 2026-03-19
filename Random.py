@@ -1,8 +1,8 @@
 import random
 
 # -----fot random digit----
-
 print(random.randrange(1,1000))
+
 print(x)
 
 # -----for random no. in given data----
